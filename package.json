@@ -12,10 +12,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.6",
+    "@radix-ui/react-dropdown-menu": "^2.1.6",
+    "@radix-ui/react-slot": "^1.1.2",
     "concurrently": "^9.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
+    "@types/node-sass": "^4.11.8",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.482.0",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.8.2"
   }
 }

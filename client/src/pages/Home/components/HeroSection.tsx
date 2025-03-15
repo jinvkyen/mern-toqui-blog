@@ -3,7 +3,7 @@ import React from "react";
 const HeroSection: React.FC = () => {
   return (
     <section className='h-full flex items-center bg-toquiPrimary'>
-      <div className='container mx-24 px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-12 mt-4'>
+      <div className='container'>
         {/* Left column - Text content */}
         <div className='flex-1 max-w-xl'>
           <h1 className='text-4xl md:text-6xl font-normal text-left text-white mb-6'>
